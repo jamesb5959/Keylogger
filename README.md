@@ -1,3 +1,3 @@
 # Keylogger
-A simple keylogger I use in other projects.
+A simple keylogger in pythone used in other projects.
 Super easily detectable. Needs obfuscation
